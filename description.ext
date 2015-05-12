@@ -1,0 +1,13 @@
+author = "IceRaiacan Code";
+onLoadName = "Academia PAVIA4";
+OnLoadMission = "Academia PAVIA4";
+respawn = BASE;
+respawndelay = 3;
+disabledAI = true;
+
+#include "VVS\menu.h"
+
+class CfgFunctions
+{
+	#include "VVS\Functions.h"
+};
