@@ -5,9 +5,14 @@ respawn = BASE;
 respawndelay = 3;
 disabledAI = true;
 
-#include "VVS\menu.h"
+class Header
+{
+	gameType = COOP;
+};
+
+#include "scripts\VVS\menu.h"
 
 class CfgFunctions
 {
-	#include "VVS\Functions.h"
+	#include "scripts\VVS\Functions.h"
 };

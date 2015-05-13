@@ -7,7 +7,8 @@ class Mission
 		"a3_characters_f",
 		"A3_Characters_F_BLUFOR",
 		"A3_Characters_F_OPFOR",
-		"A3_Weapons_F_Ammoboxes"
+		"A3_Weapons_F_Ammoboxes",
+		"A3_Soft_F_Gamma_HEMTT"
 	};
 	addOnsAuto[]=
 	{
@@ -15,6 +16,7 @@ class Mission
 		"a3_characters_f",
 		"A3_Characters_F_OPFOR",
 		"A3_Weapons_F_Ammoboxes",
+		"A3_Soft_F_Gamma_HEMTT",
 		"a3_map_altis"
 	};
 	randomSeed=13859907;
@@ -47,7 +49,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14498.154,18.811855,16336.744};
+					position[]={14498.154,18.812061,16336.668};
 					azimut=135.44;
 					id=0;
 					side="WEST";
@@ -70,7 +72,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14497.403,18.818407,16335.741};
+					position[]={14497.403,18.818607,16335.665};
 					azimut=131.267;
 					id=1;
 					side="WEST";
@@ -93,7 +95,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14499.084,18.804512,16337.638};
+					position[]={14499.084,18.804716,16337.562};
 					azimut=135.44;
 					id=2;
 					side="WEST";
@@ -116,7 +118,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14496.485,18.824366,16334.766};
+					position[]={14496.485,18.824465,16334.689};
 					azimut=135.44;
 					id=3;
 					side="WEST";
@@ -139,7 +141,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14495.593,18.82917,16333.84};
+					position[]={14495.593,18.829273,16333.764};
 					azimut=135.44;
 					id=4;
 					side="WEST";
@@ -162,7 +164,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14494.778,18.833725,16332.867};
+					position[]={14494.778,18.833828,16332.791};
 					azimut=135.44;
 					id=5;
 					side="WEST";
@@ -184,7 +186,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14493.926,18.838428,16331.897};
+					position[]={14493.926,18.838531,16331.821};
 					azimut=135.44;
 					id=6;
 					side="WEST";
@@ -207,7 +209,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14494.858,18.835886,16331.008};
+					position[]={14494.858,18.835987,16330.932};
 					azimut=135.44;
 					id=7;
 					side="WEST";
@@ -230,7 +232,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14498.307,18.815899,16334.845};
+					position[]={14498.307,18.816,16334.769};
 					azimut=135.44;
 					id=8;
 					side="WEST";
@@ -253,7 +255,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14497.376,18.822039,16333.84};
+					position[]={14497.376,18.822142,16333.764};
 					azimut=135.44;
 					id=9;
 					side="WEST";
@@ -276,7 +278,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14496.562,18.826591,16332.867};
+					position[]={14496.562,18.826694,16332.791};
 					azimut=135.44;
 					id=10;
 					side="WEST";
@@ -299,7 +301,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14495.709,18.831295,16331.897};
+					position[]={14495.709,18.831398,16331.821};
 					azimut=135.44;
 					id=11;
 					side="WEST";
@@ -322,7 +324,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14499.083,18.80937,16335.817};
+					position[]={14499.083,18.809574,16335.741};
 					azimut=135.44;
 					id=12;
 					side="WEST";
@@ -345,7 +347,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14499.937,18.802338,16336.747};
+					position[]={14499.937,18.802544,16336.671};
 					azimut=135.44;
 					id=13;
 					side="WEST";
@@ -368,7 +370,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14496.604,18.828798,16331.085};
+					position[]={14496.604,18.828901,16331.009};
 					azimut=135.44;
 					id=14;
 					side="WEST";
@@ -391,7 +393,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14497.458,18.824148,16332.011};
+					position[]={14497.458,18.824251,16331.935};
 					azimut=135.44;
 					id=15;
 					side="WEST";
@@ -414,7 +416,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14498.307,18.818432,16332.944};
+					position[]={14498.307,18.818535,16332.868};
 					azimut=135.44;
 					id=16;
 					side="WEST";
@@ -437,7 +439,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14499.239,18.812166,16333.914};
+					position[]={14499.239,18.812267,16333.838};
 					azimut=135.44;
 					id=17;
 					side="WEST";
@@ -460,7 +462,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14500.014,18.806694,16334.923};
+					position[]={14500.014,18.806793,16334.847};
 					azimut=135.44;
 					id=18;
 					side="WEST";
@@ -483,7 +485,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14500.867,18.799658,16335.892};
+					position[]={14500.867,18.799858,16335.815};
 					azimut=135.44;
 					id=19;
 					side="WEST";
@@ -506,7 +508,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14495.791,18.833401,16330.074};
+					position[]={14495.791,18.833502,16329.998};
 					azimut=135.44;
 					id=20;
 					side="WEST";
@@ -529,7 +531,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14493.965,18.839426,16330.073};
+					position[]={14493.965,18.839426,16329.997};
 					azimut=135.44;
 					id=21;
 					side="WEST";
@@ -575,11 +577,11 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={14497.567,18.829639,16324.332};
+					position[]={14456.858,18.848608,16314.156};
 					azimut=135.44;
 					id=23;
 					side="EAST";
-					vehicle="O_Soldier_F";
+					vehicle="O_Soldier_AT_F";
 					player="PLAYER COMMANDER";
 					leader=1;
 					rank="CAPTAIN";
@@ -591,23 +593,73 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=1;
+		items=5;
 		class Item0
 		{
-			position[]={14501.523,18.806402,16329.104};
+			position[]={14504.532,18.788963,16330.145};
 			azimut=135.44;
+			special="NONE";
 			id=24;
 			side="EMPTY";
 			vehicle="B_supplyCrate_F";
 			leader=1;
 			skill=0.60000002;
-			text="VAS";
-			init="removeAllWeapons this;  removeAllItems this;  removeAllAssignedItems this;  removeUniform this;  removeVest this;  removeBackpack this;  removeHeadgear this;  removeGoggles this;";
+			text="VAS1";
+			init="this addAction [""<t color='#00FF00'>Abrir arsenal virtual</t>"", {[""Open"",true] spawn BIS_fnc_arsenal}];    ClearWeaponCargo this;   ClearMagazineCargo this;   ClearItemCargo this;   ClearBackpackCargo this;  ";
+		};
+		class Item1
+		{
+			position[]={14498.093,18.826836,16323.229};
+			azimut=135.44;
+			special="NONE";
+			id=25;
+			side="EMPTY";
+			vehicle="B_supplyCrate_F";
+			leader=1;
+			skill=0.60000002;
+			text="VAS2";
+			init="this addAction [""<t color='#00FF00'>Abrir arsenal virtual</t>"", {[""Open"",true] spawn BIS_fnc_arsenal}];    ClearWeaponCargo this;   ClearMagazineCargo this;   ClearItemCargo this;   ClearBackpackCargo this;  ";
+		};
+		class Item2
+		{
+			position[]={14462.219,18.859112,16319.666};
+			azimut=224.786;
+			special="NONE";
+			id=26;
+			side="EMPTY";
+			vehicle="B_Truck_01_box_F";
+			leader=1;
+			skill=0.60000002;
+			init="this addAction [""<t color='#00FF00'>Abrir arsenal virtual mobil 3</t>"", {[""Open"",true] spawn BIS_fnc_arsenal}];    ClearWeaponCargo this;   ClearMagazineCargo this;   ClearItemCargo this;   ClearBackpackCargo this; ";
+		};
+		class Item3
+		{
+			position[]={14464.663,18.852705,16317.263};
+			azimut=224.786;
+			special="NONE";
+			id=27;
+			side="EMPTY";
+			vehicle="B_Truck_01_box_F";
+			leader=1;
+			skill=0.60000002;
+			init="this addAction [""<t color='#00FF00'>Abrir arsenal virtual mobil 2</t>"", {[""Open"",true] spawn BIS_fnc_arsenal}];    ClearWeaponCargo this;   ClearMagazineCargo this;   ClearItemCargo this;   ClearBackpackCargo this; ";
+		};
+		class Item4
+		{
+			position[]={14467.337,18.845255,16314.47};
+			azimut=224.786;
+			special="NONE";
+			id=28;
+			side="EMPTY";
+			vehicle="B_Truck_01_box_F";
+			leader=1;
+			skill=0.60000002;
+			init="this addAction [""<t color='#00FF00'>Abrir arsenal virtual mobil 1</t>"", {[""Open"",true] spawn BIS_fnc_arsenal}];    ClearWeaponCargo this;   ClearMagazineCargo this;   ClearItemCargo this;   ClearBackpackCargo this; ";
 		};
 	};
 	class Markers
 	{
-		items=1;
+		items=3;
 		class Item0
 		{
 			position[]={14497.18,18.823267,16333.507};
@@ -618,6 +670,26 @@ class Mission
 			b=2;
 			angle=132.203;
 			drawBorder=1;
+		};
+		class Item1
+		{
+			position[]={14500.39,18.810619,16330.474};
+			name="Base";
+			text="Base";
+			type="mil_flag";
+			colorName="ColorBlue";
+			a=1.5;
+			b=1.5;
+		};
+		class Item2
+		{
+			position[]={14464.64,18.852915,16317.342};
+			name="Arsenales virtuales mobiles";
+			text="A.V. mobiles";
+			type="mil_marker";
+			colorName="ColorGUER";
+			a=0.5;
+			b=0.5;
 		};
 	};
 };
