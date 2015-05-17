@@ -10,9 +10,9 @@ class Header
 	gameType = COOP;
 };
 
-#include "scripts\VVS\menu.h"
+#include "VVS\menu.h"
 
 class CfgFunctions
 {
-	#include "scripts\VVS\Functions.h"
+	#include "VVS\Functions.h"
 };
